@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "2150c",
+        "name": "Charlotte",
+        "professon": "writer",
+        "age": 56,
+        "salary": "$10400",
+        "img": "charlotte.png"
+    },
+    {
+        "_id": "2151w",
+        "name": "William blake",
+        "professon": "writer",
+        "age": 65,
+        "salary": "$11400",
+        "img": "William_Blake.jpg"
+    },
+    {
+        "_id": "2152j",
+        "name": "Jane austen",
+        "professon": "writer",
+        "age": 46,
+        "salary": "$9400",
+        "img": "jane_austen.jpg"
+    },
+    {
+        "_id": "2153g",
+        "name": "Geoffrey Chaucer",
+        "professon": "writer",
+        "age": 76,
+        "salary": "$12400",
+        "img": "Geoffrey Chaucer.jpg"
+    },
+    {
+        "_id": "2154j",
+        "name": "John Donne",
+        "professon": "writer",
+        "age": 66,
+        "salary": "$10400",
+        "img": "John Donne.png"
+    },
+    {
+        "_id": "2155g",
+        "name": "George Eliot",
+        "professon": "writer",
+        "age": 42,
+        "salary": "$13400",
+        "img": "George Orwell.jpg"
+    },
+    {
+        "_id": "2156j",
+        "name": "Jhon milton",
+        "professon": "writer",
+        "age": 86,
+        "salary": "$80400",
+        "img": "John Milton.jpg"
+    },
+    {
+        "_id": "2157g",
+        "name": "George Orwell",
+        "professon": "writer",
+        "age": 59,
+        "salary": "$11500",
+        "img": "George Orwell.jpg"
+    },
+    {
+        "_id": "2158h",
+        "name": "Harold Pinter",
+        "professon": "writer",
+        "age": 54,
+        "salary": "$15400",
+        "img": "Harold Pinter.jpg"
+    },
+    {
+        "_id": "2159s",
+        "name": "Samuel Taylor Coleridge",
+        "professon": "writer",
+        "age": 64,
+        "salary": "$13200",
+        "img": "Samuel Taylor Coleridge.png"
+    }
+]
