@@ -2,81 +2,81 @@
     {
         "_id": "2150c",
         "name": "Charlotte",
-        "professon": "writer",
+        "profession": "writer",
         "age": 56,
-        "salary": "$10400",
-        "img": "charlotte.png"
+        "salary": 10400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2aaSJxPTAH2iTsrahIgB6r1EK09vahcCg819cDzABLxYycHflF5uyLsOU8wAdLDykms&usqp=CAU"
     },
     {
         "_id": "2151w",
         "name": "William blake",
-        "professon": "writer",
+        "profession": "writer",
         "age": 65,
-        "salary": "$11400",
-        "img": "William_Blake.jpg"
+        "salary": 11400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUQJc-bV-Wb96vECW8z14Lke90uZfIQkZvg&usqp=CAU"
     },
     {
         "_id": "2152j",
         "name": "Jane austen",
-        "professon": "writer",
+        "profession": "writer",
         "age": 46,
-        "salary": "$9400",
-        "img": "jane_austen.jpg"
+        "salary": 9400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzypMsSZOxjBiFa7-5FDyag6VuZJqiBfm2JKOXnj2UnZpn44YUE0hEvsoNjO61Y6jIH8s&usqp=CAU"
     },
     {
         "_id": "2153g",
         "name": "Geoffrey Chaucer",
-        "professon": "writer",
+        "profession": "writer",
         "age": 76,
-        "salary": "$12400",
-        "img": "Geoffrey Chaucer.jpg"
+        "salary": 12400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRem1lj5ijqKrKjPkVq6mbAJca5FBb66hOY5UxeZwdZV9fgANdOJ8ZbMT_lRGs2ATOksD4&usqp=CAU"
     },
     {
         "_id": "2154j",
         "name": "John Donne",
-        "professon": "writer",
+        "profession": "writer",
         "age": 66,
-        "salary": "$10400",
-        "img": "John Donne.png"
+        "salary": 10400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4ZSuIvc4FtZJvhRRHQl68QGKJzoujJgRTw&usqp=CAU"
     },
     {
         "_id": "2155g",
         "name": "George Eliot",
-        "professon": "writer",
+        "profession": "writer",
         "age": 42,
-        "salary": "$13400",
-        "img": "George Orwell.jpg"
+        "salary": 13400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmnEuzAPHHSM0w_CXG27teaIf9XuPal_eUQ&usqp=CAU"
     },
     {
         "_id": "2156j",
         "name": "Jhon milton",
-        "professon": "writer",
+        "profession": "writer",
         "age": 86,
-        "salary": "$80400",
-        "img": "John Milton.jpg"
+        "salary": 80400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThD06Ue14Oq86u3ZWaXENBKFLYRXbdo6dJag&usqp=CAU"
     },
     {
         "_id": "2157g",
         "name": "George Orwell",
-        "professon": "writer",
+        "profession": "writer",
         "age": 59,
-        "salary": "$11500",
-        "img": "George Orwell.jpg"
+        "salary": 11500,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GVcPoxnJTOylDdXbJeYkVWX6qUTDpgsUEA&usqp=CAU"
     },
     {
         "_id": "2158h",
         "name": "Harold Pinter",
-        "professon": "writer",
+        "profession": "writer",
         "age": 54,
-        "salary": "$15400",
-        "img": "Harold Pinter.jpg"
+        "salary": 15400,
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI21rpvikAqHFLU5kLgdt83fBpgpWaMwhETQ&usqp=CAU"
     },
     {
         "_id": "2159s",
         "name": "Samuel Taylor Coleridge",
-        "professon": "writer",
+        "profession": "writer",
         "age": 64,
-        "salary": "$13200",
-        "img": "Samuel Taylor Coleridge.png"
+        "salary": 13200,
+        "pictures": "https://lh3.googleusercontent.com/proxy/5gWe2JKCWo5PgZ9NJ5iiH-JE64b3UP5u7Y3dta2c1mntM_7mFqIapT-wTEQKdxgM2Pp_JrUk8eWgXqTwOSW9nGIOhvDd-xT7GvhT-FylGg"
     }
 ]

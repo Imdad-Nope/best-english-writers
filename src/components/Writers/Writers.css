@@ -1,0 +1,11 @@
+.writers-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.writers-data{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-right: 5%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
