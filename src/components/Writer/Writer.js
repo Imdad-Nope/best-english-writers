@@ -1,7 +1,7 @@
 import React from 'react';
 import './Writer.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faBookOpen } from '@fortawesome/free-solid-svg-icons'
+import { faBookOpen } from '@fortawesome/free-solid-svg-icons'
 
 const Writer = (props) => {
     console.log(props.writer)
@@ -19,7 +19,7 @@ const Writer = (props) => {
                 <p>Id: {_id}</p>
                 <p>Age: {age}</p>
                 <h6>Salary: {salary}</h6>
-                <button onClick={() => props.handleSalary(props.writer)}>{element} Add salary</button>
+                <button className="btn" onClick={() => props.handleSalary(props.writer)}>{element} Add salary</button>
             </div>
         </div>
     );

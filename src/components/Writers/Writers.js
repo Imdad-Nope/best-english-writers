@@ -20,7 +20,7 @@ const Writers = () => {
         <div className="writers-container">
 
             <div className="writers-data">
-                {/* <h2>Total writers: {writers.length}</h2> */}
+
                 {
 
                     writers.map(writer => <Writer
@@ -33,9 +33,8 @@ const Writers = () => {
                 }
             </div>
             <div className="data-total">
-                <WriterData
-                    writerData={writerData}
-                ></WriterData>
+
+                <WriterData writerData={writerData}></WriterData>
             </div>
 
         </div >

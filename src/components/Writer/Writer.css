@@ -7,3 +7,7 @@
     margin-bottom: 20px;
     float: left;
 }
+.btn{
+    background-color:goldenrod;
+    font-weight: 400;
+}

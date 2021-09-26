@@ -12,11 +12,13 @@ const WriterData = (props) => {
     }
     return (
         <div>
-
+            <h3>Total summary:</h3>
+            <hr />
             <br />
             <h3> Total data:{props.writerData.length} </h3>
             <h4>{writerData.name}</h4>
             <h4> {handShake} Total salary: {total}</h4>
+
         </div>
     );
 };
